@@ -14,7 +14,7 @@ class script(object):
 
 ❂ ᴛʏᴘᴇ /verify ɪɴ ɢʀᴏᴜᴘ.
 
-❂ ᴡᴀɪᴛ ᴜɴᴛɪʟ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ ɪꜱ ᴠᴇʀɪꜰɪᴇᴅ ʙʏ <b><a href="https://telegram.me/CodeXBro">ᴏᴡɴᴇʀ</a></b>
+❂ ᴡᴀɪᴛ ᴜɴᴛɪʟ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ ɪꜱ ᴠᴇʀɪꜰɪᴇᴅ ʙʏ <b><a href="https://telegram.me/Sourav00876">ᴏᴡɴᴇʀ</a></b>
 
 ❂ ᴀꜰᴛᴇʀ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ꜱᴇɴᴅ /connect ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪᴅ
 <b>⤨ ᴇxᴀᴍᴘʟᴇ -</b>
@@ -36,7 +36,7 @@ class script(object):
 /connections"""
 
     ABOUT = """<b>➣ ᴍʏ ɴᴀᴍᴇ ⋟  {}</b>
-<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟  <a href=https://telegram.me/CodeXBro>ʀᴀʜᴜʟ</a></b>
+<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟  <a href=https://telegram.me/Sourav00876>彡[sᴏᴜʀᴀᴠʙᴏsᴜ]彡</a></b>
 <b>➢ ᴄʜᴀɴɴᴇʟ  ⋟  <a href=https://youtube.com/@RahulReviews>ʀᴀʜᴜʟ ʀᴇᴠɪᴇᴡꜱ</a></b>
 <b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟  <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a></b>
 <b>➣ ᴅᴀᴛᴀʙᴀsᴇ ⋟  <a href=https://www.mongodb.com>ᴍᴏɴɢᴏ ᴅʙ</a></b>
